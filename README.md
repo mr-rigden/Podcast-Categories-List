@@ -1,4 +1,3 @@
-![](https://media.giphy.com/media/PmAVj4IxPxeLaSy9oE/source.gif)
 
 # Podcast Category List
 ![GitHub](https://img.shields.io/github/license/mr-rigden/Podcast-Categories-List?style=flat-square)
@@ -16,6 +15,8 @@ Right, now we following formats available:
 Please tell me if you would like these Apple Podcasts categories in another data format.
 
 > This project won't support XML because friends don't let friends to XML. Also the 90's are dead, use a modern format.
+
+![](https://media.giphy.com/media/PmAVj4IxPxeLaSy9oE/source.gif)
 
 ## Authors
 * [Jason Rigden](https://twitter.com/mr_rigden)
