@@ -16,7 +16,7 @@ Please tell me if you would like these Apple Podcasts categories in another data
 
 > This project won't support XML because friends don't let friends to XML. Also the 90's are dead, use a modern format.
 
-### Obligatory tangentially related README Gif
+### Obligatory tangentially related README gif
 ![](https://media.giphy.com/media/PmAVj4IxPxeLaSy9oE/source.gif)
 
 ## Authors
