@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/PmAVj4IxPxeLaSy9oE/source.gif)
+
 # Podcast Category List
 ![GitHub](https://img.shields.io/github/license/mr-rigden/Podcast-Categories-List?style=flat-square)
 
