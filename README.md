@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/mr-rigden/Podcast-Categories-List?style=flat-square)
 
 
-Are you making a podcast project? Do you need a list of the Apple Podcasts categories? Would you like this list to be in **JSON** or maybe **YAML**? Well then you have come to the right place! 
+Are you making a podcast project? Do you need a list of the Apple Podcasts categories? Would you like this list to be in **JSON** or maybe **YAML**? Well, then you have come to the right place! 
 
 This little project provides the Apple Podcasts Categories in a few formats that computer like.
 Right, now we following formats available:
