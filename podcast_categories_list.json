@@ -1,6 +1,7 @@
 [
     {
-        "Arts": [
+        "category": "Arts",
+        "subcategories": [
             "Books",
             "Design",
             "Fashion & Beauty",
@@ -10,7 +11,8 @@
         ]
     },
     {
-        "Business": [
+        "category": "Business",
+        "subcategories": [
             "Careers",
             "Entrepreneurship",
             "Investing",
@@ -20,14 +22,16 @@
         ]
     },
     {
-        "Comedy": [
+        "category": "Comedy",
+        "subcategories": [
             "Comedy Interviews",
             "Improv",
             "Stand-Up"
         ]
     },
     {
-        "Education": [
+        "category": "Education",
+        "subcategories": [
             "Courses",
             "How To",
             "Language Learning",
@@ -35,20 +39,24 @@
         ]
     },
     {
-        "Fiction": [
+        "category": "Fiction",
+        "subcategories": [
             "Comedy Fiction",
             "Drama",
             "Science Fiction"
         ]
     },
     {
-        "Government": []
+        "category": "Government",
+        "subcategories": []
     },
     {
-        "History": []
+        "category": "History",
+        "subcategories": []
     },
     {
-        "Health & Fitness": [
+        "category": "Health & Fitness",
+        "subcategories": [
             "Alternative Health",
             "Fitness",
             "Medicine",
@@ -58,7 +66,8 @@
         ]
     },
     {
-        "Kids & Family": [
+        "category": "Kids & Family",
+        "subcategories": [
             "Education for Kids",
             "Parenting",
             "Pets & Animals",
@@ -66,7 +75,8 @@
         ]
     },
     {
-        "Leisure": [
+        "category": "Leisure",
+        "subcategories": [
             "Animation & Manga",
             "Automotive",
             "Aviation",
@@ -78,14 +88,16 @@
         ]
     },
     {
-        "Music": [
+        "category": "Music",
+        "subcategories": [
             "Music Commentary",
             "Music History",
             "Music Interviews"
         ]
     },
     {
-        "News": [
+        "category": "News",
+        "subcategories": [
             "Business News",
             "Daily News",
             "Entertainment News",
@@ -96,7 +108,8 @@
         ]
     },
     {
-        "Religion & Spirituality": [
+        "category": "Religion & Spirituality",
+        "subcategories": [
             "Buddhism",
             "Christianity",
             "Hinduism",
@@ -107,7 +120,8 @@
         ]
     },
     {
-        "Science": [
+        "category": "Science",
+        "subcategories": [
             "Astronomy",
             "Chemistry",
             "Earth Sciences",
@@ -120,7 +134,8 @@
         ]
     },
     {
-        "Society & Culture": [
+        "category": "Society & Culture",
+        "subcategories": [
             "Documentary",
             "Personal Journals",
             "Philosophy",
@@ -129,7 +144,8 @@
         ]
     },
     {
-        "Sports": [
+        "category": "Sports",
+        "subcategories": [
             "Baseball",
             "Basketball",
             "Cricket",
@@ -148,13 +164,16 @@
         ]
     },
     {
-        "Technology": []
+        "category": "Technology",
+        "subcategories": []
     },
     {
-        "True Crime": []
+        "category": "True Crime",
+        "subcategories": []
     },
     {
-        "TV & Film": [
+        "category": "TV & Film",
+        "subcategories": [
             "After Shows",
             "Film History",
             "Film Interviews",

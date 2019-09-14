@@ -1,183 +1,217 @@
 categories = [
     {
-        'Arts': [
-            'Books',
-            'Design',
-            'Fashion & Beauty',
-            'Food',
-            'Performing Arts',
-            'Visual Arts'
-        ]
+        'category': 'Arts',
+        'subcategories': 
+            [
+                'Books',
+                'Design',
+                'Fashion & Beauty',
+                'Food',
+                'Performing Arts',
+                'Visual Arts'
+            ]
     },
     
     {
-        'Business': [
-            'Careers',
-            'Entrepreneurship',
-            'Investing',
-            'Management',
-            'Marketing',
-            'Non-Profit'
-        ]
+        'category': 'Business',
+        'subcategories': 
+            [
+                'Careers',
+                'Entrepreneurship',
+                'Investing',
+                'Management',
+                'Marketing',
+                'Non-Profit'
+            ]
     },
 
     {
-        'Comedy': [
-            'Comedy Interviews',
-            'Improv',
-            'Stand-Up'
-        ]
+        'category': 'Comedy',
+        'subcategories': 
+            [
+                'Comedy Interviews',
+                'Improv',
+                'Stand-Up'
+            ]
     },
 
     {
-        'Education': [
-            'Courses',
-            'How To',
-            'Language Learning',
-            'Self-Improvement'
-        ]
+        'category':'Education',
+        'subcategories':
+            [
+                'Courses',
+                'How To',
+                'Language Learning',
+                'Self-Improvement'
+            ]
     },
 
     {
-        'Fiction': [
-            'Comedy Fiction',
-            'Drama',
-            'Science Fiction'
-        ]
+        'category': 'Fiction',
+        'subcategories': 
+            [
+                'Comedy Fiction',
+                'Drama',
+                'Science Fiction'
+            ]
     },
 
     {
-        'Government': []
+        'category': 'Government',
+        'subcategories': []
     },
 
     {
-        'History': []
+        'category':'History',
+        'subcategories': []
     },
 
     {
-        'Health & Fitness': [
-            'Alternative Health',
-            'Fitness',
-            'Medicine',
-            'Mental Health',
-            'Nutrition',
-            'Sexuality'
-        ]
+        'category': 'Health & Fitness',
+        'subcategories': 
+            [
+                'Alternative Health',
+                'Fitness',
+                'Medicine',
+                'Mental Health',
+                'Nutrition',
+                'Sexuality'
+            ]
     },
 
     {
-        'Kids & Family': [
-            'Education for Kids',
-            'Parenting',
-            'Pets & Animals',
-            'Stories for Kids'
-        ]
+        'category': 'Kids & Family',
+        'subcategories': 
+            [
+                'Education for Kids',
+                'Parenting',
+                'Pets & Animals',
+                'Stories for Kids'
+            ]
     },
 
     {
-        'Leisure': [
-            'Animation & Manga',
-            'Automotive',
-            'Aviation',
-            'Crafts',
-            'Games',
-            'Hobbies',
-            'Home & Garden',
-            'Video Games'
-        ]
+        'category':'Leisure',
+        'subcategories': 
+            [
+                'Animation & Manga',
+                'Automotive',
+                'Aviation',
+                'Crafts',
+                'Games',
+                'Hobbies',
+                'Home & Garden',
+                'Video Games'
+            ]
     },
         
     {
-        'Music': [
-            'Music Commentary',
-            'Music History',
-            'Music Interviews'
-        ]
+        'category': 'Music',
+        'subcategories' : 
+            [
+                'Music Commentary',
+                'Music History',
+                'Music Interviews'
+            ]
     },
 
     {
-        'News': [
-            'Business News',
-            'Daily News',
-            'Entertainment News',
-            'News Commentary',
-            'Politics',
-            'Sports News',
-            'Tech News'
-        ]
+        'category': 'News',
+        'subcategories': 
+            [
+                'Business News',
+                'Daily News',
+                'Entertainment News',
+                'News Commentary',
+                'Politics',
+                'Sports News',
+                'Tech News'
+            ]
     },
 
     {
-        'Religion & Spirituality': [
-            'Buddhism',
-            'Christianity',
-            'Hinduism',
-            'Islam',
-            'Judaism',
-            'Religion',
-            'Spirituality'
-        ]
+        'category': 'Religion & Spirituality',
+        'subcategories': 
+            [
+                'Buddhism',
+                'Christianity',
+                'Hinduism',
+                'Islam',
+                'Judaism',
+                'Religion',
+                'Spirituality'
+            ]
     },
     
     {
-        'Science': [
-            'Astronomy',
-            'Chemistry',
-            'Earth Sciences',
-            'Life Sciences',
-            'Mathematics',
-            'Natural Sciences',
-            'Nature',
-            'Physics',
-            'Social Sciences'
-        ]
+        'category':'Science',
+        'subcategories': 
+            [
+                'Astronomy',
+                'Chemistry',
+                'Earth Sciences',
+                'Life Sciences',
+                'Mathematics',
+                'Natural Sciences',
+                'Nature',
+                'Physics',
+                'Social Sciences'
+            ]
     },
 
     {
-        'Society & Culture': [
-            'Documentary',
-            'Personal Journals',
-            'Philosophy',
-            'Places & Travel',
-            'Relationships'
-        ]
+        'category': 'Society & Culture',
+        'subcategories':
+            [
+                'Documentary',
+                'Personal Journals',
+                'Philosophy',
+                'Places & Travel',
+                'Relationships'
+            ]
     },
     
     {
-        'Sports': [
-            'Baseball',
-            'Basketball',
-            'Cricket',
-            'Fantasy Sports',
-            'Football',
-            'Golf',
-            'Hockey',
-            'Rugby',
-            'Running',
-            'Soccer',
-            'Swimming',
-            'Tennis',
-            'Volleyball',
-            'Wilderness',
-            'Wrestling'
-        ]
+        'category': 'Sports',
+        'subcategories': 
+            [
+                'Baseball',
+                'Basketball',
+                'Cricket',
+                'Fantasy Sports',
+                'Football',
+                'Golf',
+                'Hockey',
+                'Rugby',
+                'Running',
+                'Soccer',
+                'Swimming',
+                'Tennis',
+                'Volleyball',
+                'Wilderness',
+                'Wrestling'
+            ]
     },
 
     {
-        'Technology': []
+        'category': 'Technology',
+        'subcategories': []
     },
 
     {
-        'True Crime': []
+        'category': 'True Crime',
+        'subcategories': []
     },
     
     {
-        'TV & Film': [
-            'After Shows',
-            'Film History',
-            'Film Interviews',
-            'Film Reviews',
-            'TV Reviews'
-        ]
+        'category': 'TV & Film',
+        'subcategories': 
+            [
+                'After Shows',
+                'Film History',
+                'Film Interviews',
+                'Film Reviews',
+                'TV Reviews'
+            ]
     }
 ]

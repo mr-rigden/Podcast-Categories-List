@@ -1,45 +1,55 @@
-- Arts:
+- category: Arts
+  subcategories:
   - Books
   - Design
   - Fashion & Beauty
   - Food
   - Performing Arts
   - Visual Arts
-- Business:
+- category: Business
+  subcategories:
   - Careers
   - Entrepreneurship
   - Investing
   - Management
   - Marketing
   - Non-Profit
-- Comedy:
+- category: Comedy
+  subcategories:
   - Comedy Interviews
   - Improv
   - Stand-Up
-- Education:
+- category: Education
+  subcategories:
   - Courses
   - How To
   - Language Learning
   - Self-Improvement
-- Fiction:
+- category: Fiction
+  subcategories:
   - Comedy Fiction
   - Drama
   - Science Fiction
-- Government: []
-- History: []
-- Health & Fitness:
+- category: Government
+  subcategories: []
+- category: History
+  subcategories: []
+- category: Health & Fitness
+  subcategories:
   - Alternative Health
   - Fitness
   - Medicine
   - Mental Health
   - Nutrition
   - Sexuality
-- Kids & Family:
+- category: Kids & Family
+  subcategories:
   - Education for Kids
   - Parenting
   - Pets & Animals
   - Stories for Kids
-- Leisure:
+- category: Leisure
+  subcategories:
   - Animation & Manga
   - Automotive
   - Aviation
@@ -48,11 +58,13 @@
   - Hobbies
   - Home & Garden
   - Video Games
-- Music:
+- category: Music
+  subcategories:
   - Music Commentary
   - Music History
   - Music Interviews
-- News:
+- category: News
+  subcategories:
   - Business News
   - Daily News
   - Entertainment News
@@ -60,7 +72,8 @@
   - Politics
   - Sports News
   - Tech News
-- Religion & Spirituality:
+- category: Religion & Spirituality
+  subcategories:
   - Buddhism
   - Christianity
   - Hinduism
@@ -68,7 +81,8 @@
   - Judaism
   - Religion
   - Spirituality
-- Science:
+- category: Science
+  subcategories:
   - Astronomy
   - Chemistry
   - Earth Sciences
@@ -78,13 +92,15 @@
   - Nature
   - Physics
   - Social Sciences
-- Society & Culture:
+- category: Society & Culture
+  subcategories:
   - Documentary
   - Personal Journals
   - Philosophy
   - Places & Travel
   - Relationships
-- Sports:
+- category: Sports
+  subcategories:
   - Baseball
   - Basketball
   - Cricket
@@ -100,9 +116,12 @@
   - Volleyball
   - Wilderness
   - Wrestling
-- Technology: []
-- True Crime: []
-- TV & Film:
+- category: Technology
+  subcategories: []
+- category: True Crime
+  subcategories: []
+- category: TV & Film
+  subcategories:
   - After Shows
   - Film History
   - Film Interviews
