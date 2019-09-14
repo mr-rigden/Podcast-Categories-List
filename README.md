@@ -9,12 +9,12 @@ This little project provides the Apple Podcasts Categories in a few formats that
 Right, now we following formats available:
 
 * [Apple Podcasts Categories list in JSON](https://raw.githubusercontent.com/mr-rigden/Podcast-Categories-List/master/podcast_categories_list.json)
-* [Apple Podcasts Categories List in Python](https://raw.githubusercontent.com/mr-rigden/Podcast-Categories-List/master/podcast_categories_list.py)
+* [Apple Podcasts Categories list in Python](https://raw.githubusercontent.com/mr-rigden/Podcast-Categories-List/master/podcast_categories_list.py)
 * [Apple Podcasts Categories list in YAML](https://raw.githubusercontent.com/mr-rigden/Podcast-Categories-List/master/podcast_categories_list.yaml)
 
 Please tell me if you would like these Apple Podcasts categories in another data format.
 
-> This project won't support XML because friends don't let friends to XML. Also the 90's are dead, use a modern format.
+> This project won't support XML because friends don't let friends do XML. Also the 90's are dead, use a modern data format.
 
 ### Obligatory tangentially related README gif
 ![](https://media.giphy.com/media/PmAVj4IxPxeLaSy9oE/source.gif)
