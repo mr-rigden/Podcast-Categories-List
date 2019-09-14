@@ -23,7 +23,7 @@ Please tell me if you would like these Apple Podcasts categories in another data
 * [Jason Rigden](https://twitter.com/mr_rigden)
 
 ## History
-* 0.1.0  -- September 13, 2019 - Initial release
+* 0.1.0  -- September 14, 2019 - Initial release
 
 ## License
 [Unlicense](http://unlicense.org/)
